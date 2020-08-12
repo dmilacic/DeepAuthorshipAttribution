@@ -1,3 +1,5 @@
+# Deep Character-level Convolutional Neural Network for Authorship Attribution
+
 The models discussed were trained and tested on the Blog Authorship Corpus:
 
 http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
