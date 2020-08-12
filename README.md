@@ -1,5 +1,7 @@
 # Deep Character-level Convolutional Neural Network for Authorship Attribution
 
+CNN preprocessing and implementation adapted from [Character level CNN with Keras](https://towardsdatascience.com/character-level-cnn-with-keras-50391c3adf33) by Xu Liang
+
 The models discussed were trained and tested on the Blog Authorship Corpus:
 
 http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
